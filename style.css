@@ -13,9 +13,6 @@ body {
 
 }
 
-.cats {
-    display: flex;
-}
 
 @media (min-width : 960px) {
     .cats {
